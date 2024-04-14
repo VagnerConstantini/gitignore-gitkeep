@@ -1,2 +1,4 @@
 # dados.csv
 *.csv
+*.parquet
+.env
