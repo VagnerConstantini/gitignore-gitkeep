@@ -1,4 +1,5 @@
 # dados.csv
 *.csv
 *.parquet
-.env
+.env 
+# .env = arquivos de configuração (setup)
